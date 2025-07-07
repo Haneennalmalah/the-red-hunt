@@ -1,4 +1,4 @@
-# Day 1: The Terminal Awakens  
+# Day 4: The Terminal Awakens  
 *“The black screen blinked — not with emptiness, but invitation.”*
 
 ---
@@ -83,4 +83,4 @@ Tomorrow, I go deeper — into flags, options, and the subtle syntax of control.
 
 ---
 
-*End of Day 1*
+*End of Day 4*

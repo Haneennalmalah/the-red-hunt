@@ -14,11 +14,11 @@ No flashy UI. No icons. Just this... prompt.
 
 ---
 
-## 🧠 What I Learned Today
+## What I Learned Today
 
 This terminal isn't just a tool — it’s the entryway into the machine’s mind.
 
-### 🔹 What *is* Linux?
+### What *is* Linux?
 
 I used to think of operating systems as sleek, colorful interfaces — Windows, macOS.  
 But Linux is... raw. Free. Modifiable. It doesn’t just **let** you in — it **expects** you to know what to do.
@@ -33,7 +33,7 @@ Here’s what I pieced together:
 
 ---
 
-### 🔸 Linux Architecture: A Digital Anatomy
+### Linux Architecture: A Digital Anatomy
 
 Before I start slicing the system open, I need to understand its bones:
 
@@ -47,7 +47,7 @@ Before I start slicing the system open, I need to understand its bones:
 
 ---
 
-## 🔍 Terminal Commands I Met (and survived)
+## Terminal Commands I Met (and survived)
 
 | Command | What It Does |
 |--------|--------------|
@@ -61,7 +61,7 @@ Before I start slicing the system open, I need to understand its bones:
 
 ---
 
-## 🧩 Realizations
+## Realizations
 
 - The terminal isn’t scary. It’s just... honest. It doesn’t hold your hand.
 - GUI hides. CLI teaches.
@@ -71,7 +71,7 @@ But maybe pain is part of the training.
 
 ---
 
-## 🔐 Lore Fragment
+## Lore Fragment
 
 > The mentor whispered:
 >  

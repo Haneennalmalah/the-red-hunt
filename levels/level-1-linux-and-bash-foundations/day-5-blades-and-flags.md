@@ -1,6 +1,5 @@
 # Day 5: Blades and Flags  
 *“A command is only as sharp as the flag you wield with it.”*
-
 ---
 
 The labyrinth didn’t stay still for long.

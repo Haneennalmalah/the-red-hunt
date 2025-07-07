@@ -16,9 +16,9 @@ I had to learn how to slice.
 
 ---
 
-## ⚔️ What I Learned Today
+##  What I Learned Today
 
-### 🔹 Command Structure
+###  Command Structure
 
 I noticed a pattern in the way the system reacted to input. It was always:
 command -option argument
@@ -33,7 +33,7 @@ Examples:
 
 ---
 
-### 🔸 The Weapon Rack: Core Linux Commands
+###  The Weapon Rack: Core Linux Commands
 
 I trained with these blades today — all sharp, some trickier than others:
 
@@ -57,7 +57,7 @@ I trained with these blades today — all sharp, some trickier than others:
 
 ---
 
-### 🧠 Reflections
+###  Reflections
 
 - A command without a flag is like a blade without a handle.
 - I felt the system *respond* to precision. Syntax isn't just structure here — it's power.
@@ -65,7 +65,7 @@ I trained with these blades today — all sharp, some trickier than others:
 
 ---
 
-## 🧩 Lore Fragment
+##  Lore Fragment
 
 > The mentor — still unseen, still unnamed — left a single message today:
 >

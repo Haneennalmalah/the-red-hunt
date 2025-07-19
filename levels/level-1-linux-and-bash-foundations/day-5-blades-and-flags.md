@@ -46,9 +46,12 @@ I trained with these blades today — all sharp, some trickier than others:
 | `nano`        | Creates an empty file and opens it to write in it
 | `cp`          | Copies files  
 | `mv`          | Moves or renames files  
-| `rm`          | Removes (deletes) files  
+| `rm`          | Removes (deletes) files 
+| `rm -r`       | Removes (deletes) directories   
 | `rmdir`       | Removes empty directories  
 | `cat`         | Displays file contents  
+| `echo"text" > file.txt` | writes into files (removes old file content)
+| `echo"text" >> file.txt` | appends into files (add to old file content)
 | `man`         | Pulls up manual pages — ancient scrolls  
 | `clear`       | Clears the terminal (and the mind)  
 

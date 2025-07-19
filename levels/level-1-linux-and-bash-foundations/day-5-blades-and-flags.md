@@ -43,6 +43,7 @@ I trained with these blades today — all sharp, some trickier than others:
 | `pwd`         | Shows your current path  
 | `mkdir`       | Creates a directory  
 | `touch`       | Creates an empty file  
+| `nano`        | Creates an empty file and opens it to write in it
 | `cp`          | Copies files  
 | `mv`          | Moves or renames files  
 | `rm`          | Removes (deletes) files  

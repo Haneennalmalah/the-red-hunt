@@ -1,4 +1,4 @@
-# 🧷 Day 7 — Into the Wire
+# Day-7 First Contact: Lab Sparks
 
 > “The wires hum. Each challenge a whisper, each file a riddle. Aroha stepped forward... and the game began.”
 

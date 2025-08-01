@@ -191,4 +191,3 @@ And it was hers.
 
 ---
 
-Let me know when you're ready to commit it to GitHub — or move forward to the next arena.

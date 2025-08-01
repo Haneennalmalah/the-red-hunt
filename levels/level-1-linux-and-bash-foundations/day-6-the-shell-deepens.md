@@ -1,14 +1,14 @@
-# 🐚 Day 6 — The Shell Deepens
+# Day 6 — The Shell Deepens
 
 > “They say the shell is just a tool. But in this place… it’s a weapon, a compass, and a way out.”
 
 ---
 
-## 🧠 What Aroha Learned
+##  What Aroha Learned
 
 Today was a deep dive. As the virtual environment shifted around her, cold terminals flickered open, whispering secrets in green. Here's what she uncovered:
 
-### 🌐 Network & Process Utilities
+### Network & Process Utilities
 
 - `ifconfig` – Inspected her network interfaces like a true digital cartographer.
 - `free` – Took a glance at the system’s memory.
@@ -16,13 +16,13 @@ Today was a deep dive. As the virtual environment shifted around her, cold termi
 - `ps aux` – Explored all running processes.
 - `kill <pid>` – Learned how to terminate rogue processes like a silent assassin.
 
-### 🔧 Installing & Managing Packages
+### Installing & Managing Packages
 
 - `apt install <app>` – Installed essential tools (like `snap`) via the package manager.
 - `snap install <app>` – Used Snap to install Spotify.
 - `dpkg -i <file>.deb` – Manually installed Chrome using `.deb` packages.
 
-✨ Discovered the life-saving `sudo !!` trick to rerun previous commands with root privileges.
+ Discovered the life-saving `sudo !!` trick to rerun previous commands with root privileges.
 
 ### 🔐 File Permissions & Ownership
 

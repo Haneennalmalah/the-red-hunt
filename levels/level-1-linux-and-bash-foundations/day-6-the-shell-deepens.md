@@ -24,7 +24,7 @@ Today was a deep dive. As the virtual environment shifted around her, cold termi
 
  Discovered the life-saving `sudo !!` trick to rerun previous commands with root privileges.
 
-### 🔐 File Permissions & Ownership
+### File Permissions & Ownership
 
 - Learned the meaning behind permission bits:
   - `r` (4) – read
@@ -42,7 +42,7 @@ Today was a deep dive. As the virtual environment shifted around her, cold termi
 - Understood ownership:
   - `root root`, `kali kali` – The first is the owner, the second is the group.
 
-### 🧰 Other Powerful Tools
+### Other Powerful Tools
 
 - `cat` – Viewed the content of files.
 - `grep` – Searched within files like a forensic investigator.
